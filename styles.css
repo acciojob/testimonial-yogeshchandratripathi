@@ -1,1 +1,18 @@
-/*  your css code here. If applicable */
+#container{
+	background-color:#f5f5f5;
+	padding:30px;
+}
+.my-pad{
+	border:1px solid;
+	margin:8px;
+	background-color:white;
+	padding:5px;
+}
+.my-pond{
+	text-align:right;
+	font-style:italic;
+}
+#my-id{
+	padding:3px;
+	background-color: #f5f5f5;
+}
